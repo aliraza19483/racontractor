@@ -2,12 +2,9 @@
 
 :root {
   --primary: #D4AF37;
-  /* Gold */
   --primary-dark: #AA8C2C;
   --secondary: #0F172A;
-  /* Dark Slate */
   --accent: #E11D48;
-  /* Red/Rose for offers */
   --bg-light: #F8FAFC;
   --bg-white: #FFFFFF;
   --text-main: #1E293B;
@@ -160,8 +157,6 @@ img {
 .uppercase {
   text-transform: uppercase;
 }
-
-/* Components */
 .btn {
   display: inline-flex;
   align-items: center;
