@@ -52,7 +52,8 @@ export default function Hero() {
           </p>
 
           <div className="offer-box border-l-4 border-primary pl-4 mb-8">
-            <p className="text-xl font-bold text-secondary">FLAT 25% OFF</p>
+            <p className="text-xl font-bold text-secondary" style={{ color: 'bright-yellow' }}>NEW OFFER</p>
+            <p className="text-xl font-bold text-secondary" style={{ color: 'red' }}>FLAT 30% OFF</p>
             <p className="text-sm text-muted">On Complete Home Interiors*</p>
           </div>
 
