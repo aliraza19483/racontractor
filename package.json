@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://racontractor.in",
+  "homepage": "/",
 
   "scripts": {
     "dev": "vite",
